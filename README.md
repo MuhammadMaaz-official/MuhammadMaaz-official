@@ -67,19 +67,6 @@
   <!-- Add more icons as needed -->
 </p>
 
-<!-- Custom JavaScript Animation -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
-<script>
-  // Custom JavaScript Animation using anime.js
-  anime({
-    targets: '.animated-element',
-    translateX: 250,
-    easing: 'easeInOutQuad',
-    duration: 1000,
-    loop: true
-  });
-</script>
-
 <!-- Custom CSS Styling -->
 <style>
   /* Your custom CSS styling goes here */
